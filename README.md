@@ -11,8 +11,17 @@
   <img padding="24px" src="https://github.com/natalliarad/EpamLaboratory14/blob/master/app/screenshorts/notes_list.png" width="200"/>
   <img padding="24px" src="https://github.com/natalliarad/EpamLaboratory14/blob/master/app/screenshorts/notes_list_land.png" width="350"/>
 </p>
+<p>Add new note:</p>
+<p align="center">
+  <img padding="24px" src="https://github.com/natalliarad/EpamLaboratory14/blob/master/app/screenshorts/create_new_note.png" width="200"/>
+</p>
 <p>When you click on a note, you go to the next activity, where the title of note and its details are displayed. And edit note too.</p>
 <p align="center">
   <img padding="24px" src="https://github.com/natalliarad/EpamLaboratory14/blob/master/app/screenshorts/single_note.png" width="300"/>
   <img padding="24px" src="https://github.com/natalliarad/EpamLaboratory14/blob/master/app/screenshorts/single_note_edit.png" width="300"/>
+</p>
+<p>Multichoice mode:</p>
+<p align="center">
+  <img padding="24px" src="https://github.com/natalliarad/EpamLaboratory14/blob/master/app/screenshorts/multichoice_delete.png" width="200"/>
+  <img padding="24px" src="https://github.com/natalliarad/EpamLaboratory14/blob/master/app/screenshorts/multichoice_edit_delete.png" width="200"/>
 </p>
