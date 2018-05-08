@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EpamLabNote</string>
+    <string name="note_add">Add</string>
+    <string name="note_delete">Delete</string>
+    <string name="note_edit">Edit</string>
+    <string name="note_dialog_title">Create bookmark</string>
+    <string name="note_dialog_positive">Add</string>
+    <string name="note_dialog_negative">Cancel</string>
+    <string name="note_text_hint">Add details here...</string>
+    <string name="note_title_hint">Type here what\'s on your mind</string>
+    <string name="details_save">Save</string>
+    <string name="empty_notes">You have no notes yet. Make the first note.</string>
+    <string name="edit">Edit</string>
+</resources>
